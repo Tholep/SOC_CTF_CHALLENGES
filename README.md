@@ -35,6 +35,7 @@ Information stealer:
 ### SCENARIO2
 **Context**: A network administrator detects some abnormal traffic with the private web server. He is unsure what is happening. So he extracts the network traffic during that time. He sends the PCAP to SOC and asks for support. Can you help him to determine what is happening?
 
+
 **Question**:
 1. What is the IP of the private web server?
 2. What is the incident?
@@ -42,3 +43,6 @@ Information stealer:
 4. How long (in seconds) does the incident last?
 5. What is the encoding used?
 6. (Optional) what is the hash of the incident-related file?
+
+**HINTS**
+1. the network administrator think that Convert channle may be used with 3 protocols
