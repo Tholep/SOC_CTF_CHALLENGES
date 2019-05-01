@@ -45,4 +45,4 @@ Information stealer:
 6. (Optional) what is the hash of the incident-related file?
 
 **HINTS**
-1. the network administrator think that Convert channle may be used with 3 protocols
+1. the network administrator thinks that Convert channles may be used with 3 protocols
