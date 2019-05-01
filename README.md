@@ -7,7 +7,7 @@ P/S: password is "infected"
 ***
 
 ## EDR
-### SCENARIO1
+
 **Context**: Threat Intelligent team notifies SOC about a new information stealer malware as below. Can you determine whether any internal computer is infected? If yes, can you use the EDR tool to analyse the malware activities in details as below?
 1. Provide infected Computer name(s)?
 2. What are processes generated/involved by this malware?
