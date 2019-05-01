@@ -21,3 +21,24 @@ Information stealer:
 - File name: my_name_is_dynamic_changed_continuously.vbs
 
 - SHA256: 0a15c807e09751957e7d781b8b2547f84ba3110a8819bce1c570b99322484404
+
+## NETWORK TRAFFIC ANALYSIS
+
+### SCENARIO1 - WARM UP
+**Context**: An internal infected machine has caused some IDS alerts. You receive a PCAP recording network traffic as well as the IDS alerts. Your task is to analyse and create an IOC with details as below:
+
+**IOC**:
+1. Details of the infected machine: MAC, IP, Host name and login user account
+2. Connections to external hosts
+3. Files: file names and SHA256 hashes
+
+### SCENARIO2
+**Context**: A network administrator detects some abnormal traffic with the private web server. He is unsure what is happening. So he extracts the network traffic during that time. He sends the PCAP to SOC and asks for support. Can you help him to determine what is happening?
+
+**Question**:
+1. What is the IP of the private web server?
+2. What is the incident?
+3. What are the involved protocols?
+4. How long (in seconds) does the incident last?
+5. What is the encoding used?
+6. (Optional) what is the hash of the incident-related file?
