@@ -18,6 +18,6 @@ P/S: password is "infected"
 
 Information stealer: 
 
-.File name: my_name_is_dynamic_changed_continuously.vbs
+*File name: my_name_is_dynamic_changed_continuously.vbs
 
-.hash: sha256: 0a15c807e09751957e7d781b8b2547f84ba3110a8819bce1c570b99322484404
+*ha256: 0a15c807e09751957e7d781b8b2547f84ba3110a8819bce1c570b99322484404
